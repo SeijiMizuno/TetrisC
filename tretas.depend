@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1628129619 source:d:\estudos\trabs\linguagem de programação\exercícios\exercício de vetor\tretas\tretas.c
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1638337285 source:d:\estudos\trabs\linguagem de programação\tretas\tretas.c
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
