@@ -1,7 +1,6 @@
-Hi, I'm starting to code and this repository is the final project of
-school subject "Linguagem de Programação" - UTFPR
+When I was learning coding in C, I made this as a final project of school subject "Linguagem de Programação" - UTFPR in 2019
 
-Was ask to make a game, any kind of game, totally made with C and CodeBlocks.
+Was ask to make a game, any kind of game, totally made with C in CodeBlocks.
 The game that has been chosen was classic Tetris.
 
 So i'm commiting this repository here, because I'm really proud
